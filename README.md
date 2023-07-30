@@ -1,4 +1,4 @@
-<img src="./src/Assets/trial.jpg"/>
+<img src="./src/Assets/trial.jpg" className="readMeImg"/>
 
 # Getting Started with Create React App
 
